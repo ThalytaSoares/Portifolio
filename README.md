@@ -1,5 +1,4 @@
-# Portifolio
-Portfólio de Teste de Software
+# ServerestAPI
 
 Este repositório contém meus projetos de teste de software utilizando Cypress e Postman.
 
