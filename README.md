@@ -1,8 +1,4 @@
 # ServerestAPI
 
-Este repositório contém meus projetos de teste de software utilizando Cypress e Postman.
+Criação de testes de API utilizando postman, newmam e newman-htmlextra
 
-## Projetos
-
-*   Cypress: Testes de Software para o Site ToDoMvc
-*   Postman: Testes de Software para o Site Severest
