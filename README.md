@@ -5,5 +5,5 @@ Este repositório contém meus projetos de teste de software utilizando Cypress 
 
 ## Projetos
 
-*   Cypress: Testes de Software para o Site da Wikipedia
-*   Postman: Testes de Software para o Site da Wikipedia
+*   Cypress: Testes de Software para o Site ToDoMvc
+*   Postman: Testes de Software para o Site Severest
